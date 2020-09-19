@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on my project <a href="https://github.com/Locker-SSAFY/colorPOOL-developing" alt="colorPOOL | SSAFY">colorPOOL</a>
+<br>
+
+
 <!--
 **YNNJN/YNNJN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
