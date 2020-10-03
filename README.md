@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my project <a href="https://github.com/Locker-SSAFY/colorPOOL-developing" alt="colorPOOL | SSAFY">colorPOOL</a>
-<br>
+![](https://github-readme-stats.vercel.app/api?username=YNNJN&show_icons=true&theme=tokyonight)
+
+🔭  I’m currently working on my project <a href="https://github.com/Locker-SSAFY/colorPOOL-developing" alt="colorPOOL | SSAFY">colorPOOL</a>
 
 
 <!--
